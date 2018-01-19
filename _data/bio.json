@@ -102,6 +102,24 @@
       "date": "2016-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to UH student who complete a rigorous high school curriculum and have a minimum GPA of 3.0 at a Hawai'i college."
+    },
+    {
+      "title": "Comptia Security+ Certificate",
+      "date": "2013-2016",
+      "awarder": "Comptia",
+      "summary": "For passing their Security+ test"
+    }
+    {
+      "title": "Comptia Network+ Certificate",
+      "date": "2013-2016",
+      "awarder": "Comptia",
+      "summary": "For passing their Network+ test"
+    },
+    {
+      "title": "Comptia A+ Certificate",
+      "date": "2013-2016",
+      "awarder": "Comptia",
+      "summary": "This was when I was first getting interested in computers.  I passed their A+ test."
     }
   ],
   
