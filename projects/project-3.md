@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015-07-01
+image:
+title: Recursive Maze
+permalink: 
+date: 2018-18-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Machine Learning
+  - Software Engineering
+summary: I am  developing a maze that can be solved by any program using recursion. 
 ---
