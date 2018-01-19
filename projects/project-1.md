@@ -4,10 +4,10 @@ type: project
 image: 
 title: Javascript Webpage
 permalink: 
-date: 2015-07-01
+date: 2018-18-01
 labels:
   - Javascript
-  - Gamification
-  - C
-summary: Developing a Javascript webpage this semester.
+  - HTML
+  - Database
+summary: My goal is to develop a Javascript webpage this semester. Hopefully I will incorporate secure SQL databases on it.
 ---
