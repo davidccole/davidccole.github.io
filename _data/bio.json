@@ -108,7 +108,7 @@
       "date": "2013-2016",
       "awarder": "Comptia",
       "summary": "For passing their Security+ test"
-    }
+    },
     {
       "title": "Comptia Network+ Certificate",
       "date": "2013-2016",
@@ -122,7 +122,10 @@
       "summary": "This was when I was first getting interested in computers.  I passed their A+ test."
     }
   ],
-  
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
     }
-    
+  ]
 }
