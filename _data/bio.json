@@ -24,6 +24,10 @@
         "network": "linkedin",
         "username": "davidccole",
         "url": "http://linkedin.com/in/david-cole-4411b0133"
+      },
+      {
+        "network": "email",
+        "username": "dccole@hawaii.edu",
       }
     ]
   },
