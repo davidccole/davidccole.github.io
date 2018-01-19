@@ -84,21 +84,20 @@
   ],
   "volunteer": [
     {
-      "company": "Honolulu City and County",
-      "position": "Help Desk Consultant",
-      "website": "",
-      "startDate": "2013-03-03",
+      "organization": "Honolulu City and County",
+      "website": "honolulu.gov",
+      "position": "Help Desk",
+      "startDate": "2013-01-03",
       "endDate": "2013-09-15",
       "summary": "",
       "highlights": [
         "Troubleshoot software, setup networks, fix printers, hardware and networking issues over the phone",
-        "Assist callers with computer problems, updated computers with the latest software"
       ]
-    }
+    },
   ],
   "awards": [
     {
-      "title": "STEM Scholarship",
+     "title": "STEM Scholarship",
       "date": "2016-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to UH student who complete a rigorous high school curriculum and have a minimum GPA of 3.0 at a Hawai'i college."
