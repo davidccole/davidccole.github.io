@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/giphy.gif
 title: Javascript Webpage
 permalink: 
 date: 2018-18-01
