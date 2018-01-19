@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/gecko.jpg
 title: Querying Large Files
 permalink: 
 date: 2018-18-01
