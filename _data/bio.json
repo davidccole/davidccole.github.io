@@ -38,12 +38,12 @@
       ]
     },
     {
-      "name": "computer security",
+      "name": "cyber security",
       "keywords": [
       ]
     },
     {
-      "name": "deep learning",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -57,6 +57,7 @@
         "C++",
         "Java",
         "Javascript",
+        "Assembly Language",
       ]
     },
     {
@@ -73,7 +74,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2017-09-07",
       "endDate": "Present",
@@ -91,7 +92,7 @@
       "endDate": "2013-09-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, setup networks, fix printers, hardware and networking issues over the phone",
+        "Troubleshoot software, hardware, and networking issues over the phone.  Setup networks and fixed printers.",
       ]
     },
   ],
@@ -100,19 +101,19 @@
      "title": "STEM Scholarship",
       "date": "2016-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to UH student who complete a rigorous high school curriculum and have a minimum GPA of 3.0 at a Hawai'i college."
+      "summary": "A Scholarship awarded to a UH student who is majoring in a Science, Technology, Engineering, or Math and has a minimum GPA of 3.0."
     },
     {
       "title": "Comptia Security+ Certificate",
       "date": "2013-2016",
       "awarder": "Comptia",
-      "summary": "For passing their Security+ test"
+      "summary": "Passsed their Security+ test"
     },
     {
       "title": "Comptia Network+ Certificate",
       "date": "2013-2016",
       "awarder": "Comptia",
-      "summary": "For passing their Network+ test"
+      "summary": "Passed their Network+ test"
     },
     {
       "title": "Comptia A+ Certificate",
