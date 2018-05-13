@@ -12,4 +12,3 @@ labels:
 summary: I am  developing a maze that can be solved by any program using recursion in an attempt to develop artificial intelligence skills.
 ---
 
-<iframe style='width: 640px; height: 16129px;' src='http://2.bp.blogspot.com/-RzLVK_13O4g/TZY2Jn2f53I/AAAAAAAABsg/ScGU1loWkKQ/s1600/maze.jpg'/>/>
