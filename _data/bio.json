@@ -2,11 +2,11 @@
   "basics": {
     "name": "David Cole",
     "label": "Student",
-    "picture": "https://github.com/davidccole/davidccole.github.io/blob/master/images/me.jpg",
+    "picture": "https://davidccole.github.io/images/me.jpg",
     "email": "dccole@hawaii.edu",
     "phone": "",
     "website": "https://davidccole.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am a student with the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My immediate goal is to graduate in Fall, 2018, and then continue to earn a Graduate degree or pursue a career in the field of computer security.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,40 +24,42 @@
         "network": "linkedin",
         "username": "davidccole",
         "url": "http://linkedin.com/in/david-cole-4411b0133"
-      },
-      {
-        "network": "email",
-        "username": "dccole@hawaii.edu",
       }
     ]
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "cyber security",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Mathematics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Algorithms",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "computer security",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly Language",
+        "Python",
+        "Assembly",
       ]
     },
     {
@@ -65,9 +67,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Unix",
         "Git/GitHub",
-        "Windows (all versions)",
+        "Windows",
       ]
     }
   ],
@@ -78,7 +80,7 @@
       "studyType": "B.S.",
       "startDate": "2017-09-07",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.4",
       "courses": [
       ]
     }
@@ -96,13 +98,7 @@
       ]
     },
   ],
-  "awards": [
-    {
-     "title": "STEM Scholarship",
-      "date": "2016-Present",
-      "awarder": "State of Hawaii",
-      "summary": "A Scholarship awarded to a UH student who is majoring in a Science, Technology, Engineering, or Math and has a minimum GPA of 3.0."
-    },
+  "certificates": [
     {
       "title": "Comptia Security+ Certificate",
       "date": "2013-2016",
