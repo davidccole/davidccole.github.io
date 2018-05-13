@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/giphy.gif
 title: Manoa Overflow
-permalink: 
+permalink: projects/manoa-overflow
 date: 2018-18-03
 labels:
   - Database
