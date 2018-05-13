@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/gecko.jpg
-title: ICS 212 - SHA-1
+title: SHA-1
 permalink: projects/sha
 date: 2017-18-04
 labels:
