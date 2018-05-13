@@ -12,3 +12,4 @@ labels:
 summary: I am  developing a maze that can be solved by any program using recursion in an attempt to develop artificial intelligence skills.
 ---
 
+This project helped me understand recursion.
