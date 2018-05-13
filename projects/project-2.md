@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/gecko.jpg
-title: SHA-1
-permalink: projects/sha
+title: SHA1
+permalink: 
 date: 2017-18-04
 labels:
   - C
