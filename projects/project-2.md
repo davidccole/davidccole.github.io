@@ -8,6 +8,7 @@ date: 2017-18-04
 labels:
   - C
   - Crytography
+  - Algorithms
 summary: This is the final project for my ICS 212 class during the spring of 2017 at Kapiolani Community College. The algoritm used is an obsolete one, SHA-1.  The program inputs a file, processes it, and spits out out an alphanumeric string. I implemented SHA-1 using C.
 ---
 
