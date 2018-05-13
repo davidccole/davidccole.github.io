@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/giphy.gif
-title: Javascript Webpage
+title: Manoa Overflow
 permalink: 
-date: 2018-18-01
+date: 2018-18-03
 labels:
-  - Javascript
-  - HTML
   - Database
+  - Forum
+  - Meteor JS
+  - React JS
 summary:  A stack overflow style forum for computer science courses at the University of Hawaii Manoa.
 ---
 
